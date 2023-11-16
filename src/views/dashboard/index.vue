@@ -1,6 +1,7 @@
 <template>
   <div>
     dashboard
+    <router-link to="/login">login</router-link>
   </div>
 </template>
 
